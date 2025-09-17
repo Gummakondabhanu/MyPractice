@@ -1,0 +1,13 @@
+# a=26
+# b=23
+# print(a&b)
+# a=17
+# b=24
+# print(a|b)
+# print(a^b)
+# a=45
+# print(~a)
+# a=68
+# print(a<<2)
+# a=56
+# print(a>>3)
